@@ -1,0 +1,1 @@
+A jquery trick to swap an image source on click.

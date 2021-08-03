@@ -1,0 +1,16 @@
+/* CSS resets */
+*{
+	vertical-align: baseline;
+	border: 0 none;
+	padding: 0;
+	margin: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+   /* outline: dashed 1px red; */
+}
+
+/* stack and margin the images */
+img{
+   display: block;
+   margin: 2px;
+}
